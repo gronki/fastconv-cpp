@@ -36,5 +36,7 @@ PenaltyBreakBeforeFirstCallParameter: 100000
 PenaltyBreakAssignment: 100000
 PenaltyBreakOpenParenthesis: 100000
 PenaltyExcessCharacter: 100000
+PenaltyBreakString: 100
+PenaltyIndentedWhitespace: 1000
 AllowShortFunctionsOnASingleLine: None
 ---
